@@ -1,2 +1,3 @@
 # Finite-rotation-formula-reformulation-
-A rotation formula that rotates a point across an axis with any possible configuration in 3d space. My original version works for any axis other than the world axis. An improved version uses can also use the world axis.
+A rotation formula that rotates a point across an axis with any possible configuration in 3d space(finite rotation formula). My original version works for any axis other than the world axis. An improved version uses can also use the world axis. The program tests the formula against rodrigues' rotation formula for various test cases for different positions of the rotational axis in 3d space. For all the test cases, the outputs of my original formula, the improved version, and rodrigues' rotation formula match.
+<img width="640" height="450" alt="giphy" src="https://github.com/user-attachments/assets/2ab94d69-6019-4e63-83ca-872ef6f1d4be" />
